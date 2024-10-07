@@ -1,3 +1,4 @@
+import 'package:LifeLines/components/dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_reaction_button/flutter_reaction_button.dart';
 // import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -33,7 +34,9 @@ class MyReaction extends StatelessWidget {
       itemSize: const Size(40, 40),
       boxColor: Colors.black,
       onReactionChanged: (Reaction<String>? reaction) {
+        update(id, {'feeling': '${reaction?.value}'});
         debugPrint('Selected value: ${reaction?.value} id: $id');
+
       },
       isChecked: true,
       selectedReaction: Reaction<String>(

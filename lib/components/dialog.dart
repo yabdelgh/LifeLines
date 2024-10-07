@@ -48,6 +48,17 @@ void delete(id) async {
       );
 }
 
+void update(id, data) async {
+  db
+      .collection('/users/1NgXnWc4PagpCvRh7LFxoFrByMd2/notes')
+      .doc(id)
+      .update(data)
+      .then(
+        (doc) => debugPrint("Document deleted"),
+        onError: (e) => debugPrint("Error updating document $e"),
+      );
+}
+
 class _NoteFormState extends State<NoteForm> {
   String title = '';
   String text = '';
