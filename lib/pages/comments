@@ -1,0 +1,93 @@
+
+    // var textFormField =
+    // TextFormField(
+    //   focusNode: _focusNode,
+    //   decoration: InputDecoration(
+    //       hintText: 'Password',
+    //       contentPadding: const EdgeInsets.all(18),
+    //       fillColor: Colors.grey[100],
+    //       filled: true,
+    //       border: const OutlineInputBorder(
+    //           borderRadius: BorderRadius.all(Radius.circular(10)),
+    //           borderSide: BorderSide.none)),
+    //   validator: (String? value) {
+    //     if (value == null || value.isEmpty) {
+    //       return 'Please enter some text';
+    //     }
+    //     return null;
+    //   },
+    // );
+                    // const SizedBox(
+                    //   width: double.infinity,
+                    //   child: Column(
+                    //     crossAxisAlignment: CrossAxisAlignment.start,
+                    //     children: [
+                    //       Text(
+                    //         'Welcome!',
+                    //         style: TextStyle(
+                    //             fontSize: 30, fontWeight: FontWeight.w600),
+                    //       ),
+                    //       Text(
+                    //         'To get started, sign in to your account',
+                    //         style: TextStyle(color: Colors.grey),
+                    //       ),
+                    //     ],
+                    //   ),
+                    // ),
+                    // const SizedBox(
+                    //   height: 50,
+                    // ),
+                    // TextFormField(
+                    //   decoration: InputDecoration(
+                    //     hintText: 'Enter your email',
+                    //     fillColor: Colors.grey[100],
+                    //     filled: true,
+                    //     contentPadding: const EdgeInsets.all(18),
+                    //     border: OutlineInputBorder(
+                    //         borderRadius: BorderRadius.circular(5),
+                    //         borderSide: BorderSide.none),
+                    //     // focusedBorder: OutlineInputBorder(
+                    //     //     borderSide: BorderSide(color: Colors.red)
+                    //     //     )
+                    //   ),
+                    //   validator: (String? value) {
+                    //     if (value == null || value.isEmpty) {
+                    //       return 'Please enter some text';
+                    //     }
+                    //     return null;
+                    //   },
+                    // ),
+                    // const SizedBox(
+                    //   height: 15,
+                    // ),
+                    // textFormField,
+                    // const SizedBox(
+                    //   height: 15,
+                    // ),
+                    // SizedBox(
+                    //   width: double.infinity,
+                    //   height: 50,
+                    //   child: ElevatedButton(
+                    //     style: ElevatedButton.styleFrom(
+                    //         elevation: 1,
+                    //         backgroundColor: Colors.black,
+                    //         foregroundColor: Colors.white,
+                    //         shape: RoundedRectangleBorder(
+                    //             borderRadius: BorderRadius.circular(5))),
+                    //     onPressed: () {},
+                    //     child: const Text(
+                    //       'Sign in',
+                    //       style: TextStyle(
+                    //           fontWeight: FontWeight.w500, fontSize: 16),
+                    //     ),
+                    //   ),
+                    // ),
+                    // const SizedBox(
+                    //   height: 70,
+                    //   child: Center(
+                    //     child: Text(
+                    //       'Or sign in with',
+                    //       style: TextStyle(color: Colors.grey),
+                    //     ),
+                    //   ),
+                    // ),

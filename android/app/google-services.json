@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "973748496987",
+    "firebase_url": "https://project123-4b734-default-rtdb.firebaseio.com",
+    "project_id": "project123-4b734",
+    "storage_bucket": "project123-4b734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973748496987:android:daa6a7b4c6a6342ceb6d7e",
+        "android_client_info": {
+          "package_name": "com.example.LifeLines2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973748496987-cpnfusghnosno14pbcplnl63ctiopc67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrixOZjOJOyVrFRX5aAaO4DtEll7PE8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973748496987-cpnfusghnosno14pbcplnl63ctiopc67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973748496987-1rjo9ut3upgjf8gol5m2noq4068mcr7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.LifeLines"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973748496987:android:89fa74d1bf674d89eb6d7e",
+        "android_client_info": {
+          "package_name": "com.example.death_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973748496987-savume6f7hcoc3v7agedot7g9datd2n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.death_note",
+            "certificate_hash": "3667a565cd713e9db59059fa363649001d8331b1"
+          }
+        },
+        {
+          "client_id": "973748496987-cpnfusghnosno14pbcplnl63ctiopc67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrixOZjOJOyVrFRX5aAaO4DtEll7PE8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973748496987-cpnfusghnosno14pbcplnl63ctiopc67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973748496987-1rjo9ut3upgjf8gol5m2noq4068mcr7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.LifeLines"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

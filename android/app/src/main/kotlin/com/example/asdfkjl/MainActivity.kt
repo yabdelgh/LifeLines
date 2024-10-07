@@ -1,4 +1,4 @@
-package com.example.asdfkjl
+package com.example.LifeLines
 
 import io.flutter.embedding.android.FlutterActivity
 
